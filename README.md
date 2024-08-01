@@ -87,3 +87,4 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/LeetCode-prethish04-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
      </a>
 </div>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=prethish04&animated=true" alt="LeetCode Badges"/>
