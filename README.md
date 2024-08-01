@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
     <h2>✨ Welcome to Odyssey ✨</h2>
     <h3>Embark on a Stellar Journey Through the Cosmos of Code</h3>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJiZWhoZXVpNjdndjRnam04emxyNW96Nzk1M29xNTludDNveTMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT4uQcvDww0HEJYA36/giphy.webp" width="300px"/>
 </div>
 
 <hr>
@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 
 <div align="centre">
     <h2 align="left">📊 GitHub Statistics</h2>
-      <a href="https://github.com/Hariesh-Kai">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Hariesh's GitHub Stats" style="width: 48%; float: left;" />
+      <a href="https://github.com/prethish004">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Prethish's GitHub Stats" style="width: 48%; float: left;" />
     </a>
-    <a href="https://github.com/Hariesh-Kai">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" style="width: 42%; float: right;" />
+    <a href="https://github.com/prethish004">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prethish004&layout=compact&theme=radical" alt="Prethish's Most Used Languages" style="width: 42%; float: right;" />
     </div>
 </div>
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/hariesh-r">
         <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
-     <a href="https://leetcode.com/HarieshKai/">
-        <img src="https://img.shields.io/badge/LeetCode-HarieshKai-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
+     <a href="https://leetcode.com/prethish04/">
+        <img src="https://img.shields.io/badge/LeetCode-prethish04-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
      </a>
 </div>
