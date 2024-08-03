@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <div align="centre">
     <h2 align="left">📊 GitHub Statistics</h2>
       <a href="https://github.com/prethish004">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Prethish's GitHub Stats" style="width: 48%; float: left;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=prethish004&show_icons=true&theme=radical" alt="Prethish's GitHub Stats" style="width: 48%; float: left;" />
     </a>
     <a href="https://github.com/prethish004">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prethish004&layout=compact&theme=radical" alt="Prethish's Most Used Languages" style="width: 42%; float: right;" />
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 <div >
     <h2>🤝 Connect with Me</h2>
-    <a href="https://www.linkedin.com/in/hariesh-r">
+    <a href="https://www.linkedin.com/in/prethish-ga-84b96224b/">
         <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
      <a href="https://leetcode.com/prethish04/">
