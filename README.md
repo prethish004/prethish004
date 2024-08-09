@@ -35,9 +35,9 @@ Here are some ideas to get you started:
          <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
          <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
          <img src="https://img.shields.io/badge/-Deep%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
-        <img src="https://img.shields.io/badge/-Data%20Structures-FFCA28?style=for-the-badge&logo=algorithm&logoColor=black" alt="Data Structures Badge"/>
+        <img src="https://img.shields.io/badge/-Data%20Structures-FFCA28?style=for-the-badge&logo=algorithm&logoColor=black" alt="Machine Learning Badge"/>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="UI&UX Badge"/>
     <!-- More badges -->
          <hr style="height:2px;border-width:0;color:gray;background-color:gray">
      </div>
