@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-    <h2>✨ Welcome to Odyssey ✨</h2>
+    <h2>✨ Embark on my journey ✨</h2>
     <h3></h3>
     <img src="https://www.japan-academy.in/blog/wp-content/uploads/2021/10/motivational-Naruto-quote-1024x576.jpg" width="500px"/>
 </div>
