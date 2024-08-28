@@ -59,7 +59,7 @@
 
 <div >
     <h2>🌱 Current Learning</h2>
-    <p>Currently, I'm deep diving into Deep Learning, exploring Virtual & Augmented Realities, and understanding the importance of responsible AI development.</p>
+    <p>Currently, I'm deep diving into Deep Learning, exploring Virtua and understanding the importance of responsible AI development.</p>
 </div>
 
 <hr>
