@@ -66,7 +66,7 @@
 
 <div >
     <h2>💼 Professional Journey</h2>
-    <p>As a student, I'm working on various projects that incorporate AI and ML to solve real-world problems. I am also actively seeking internships to apply my skills in a professional setting.</p>
+    <p>As a student, I'm working on various projects that incorporate AI and DS to solve real-world problems. I am also actively seeking internships to apply my skills in a professional setting.</p>
 </div>
 
 <hr>
