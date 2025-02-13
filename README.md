@@ -1,9 +1,12 @@
 ## Hi there 👋
 <div align="center">
     <h2>✨Embark on my journey✨</h2>
-    <h3></h3>
     <img src="https://www.japan-academy.in/blog/wp-content/uploads/2021/10/motivational-Naruto-quote-1024x576.jpg" width="500px"/>
+    <br>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150px"/>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150px"/>
 </div>
+
 <hr>
 <div>
     <h2> About Me</h2>
