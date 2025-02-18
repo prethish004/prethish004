@@ -9,7 +9,7 @@
 <hr>
 <div>
     <h2> About Me</h2>
-    <p>I'm an AI Enthusiast and a final-year student at Kongu Engineering College, graduating in 2025. Join me as I explore the endless possibilities of Artificial Intelligence and Machine Learning!</p>
+    <p>I'm an AI Enthusiast and a final-year student at Kongu Engineering College, graduating in 2025. Join me as I explore the endless possibilities of Artificial Intelligence and Data Science!</p>
 </div>
 <hr>
 <div >
