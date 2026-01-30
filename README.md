@@ -80,19 +80,6 @@ I'm an **AI Application Developer** at **Kongu Engineering and Software Services
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/prethish004">
-    <img src="https://github-readme-stats.vercel.app/api?username=prethish004&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/prethish004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prethish004&layout=compact&theme=radical&hide_border=true" width="48%" />
-  </a>
-</p>
-
----
-
 ## 🌱 Current Focus
 
 - 🤖 Advancing in **Agentic AI** and **Multi-Agent Systems**
@@ -130,10 +117,10 @@ I'm an **AI Application Developer** at **Kongu Engineering and Software Services
 ## 🤝 Let's Connect
 
 <div>
-    <a href="https://www.linkedin.com/in/prethish-ga-84b96224b/">
+    <a href="https://www.linkedin.com/in/prethish-ga/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:prethish0409@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
