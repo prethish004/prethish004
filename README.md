@@ -2,7 +2,9 @@
 
 <div align="center">
     <h2>✨ AI Application Developer | Building Intelligent Solutions ✨</h2>
-    <img src="https://www.japan-academy.in/blog/wp-content/uploads/2021/10/motivational-Naruto-quote-1024x576.jpg" width="500px"/>
+    <!-- <img src="https://www.japan-academy.in/blog/wp-content/uploads/2021/10/motivational-Naruto-quote-1024x576.jpg" width="500px"/> -->
+        <img src="    https://i.pinimg.com/564x/5a/95/38/5a9538cbfae3adaff375a91b4d2615ef.jpg" width="800px"/>
+
 </div>
 
 ---
