@@ -1,75 +1,147 @@
 ## Hi there 👋
+
 <div align="center">
-    <h2>✨Embark on my journey✨</h2>
-    <h3></h3>
+    <h2>✨ AI Application Developer | Building Intelligent Solutions ✨</h2>
     <img src="https://www.japan-academy.in/blog/wp-content/uploads/2021/10/motivational-Naruto-quote-1024x576.jpg" width="500px"/>
 </div>
 
+---
 
-<hr>
-<div>
-    <h2> About Me</h2>
-    <p>I'm an AI Enthusiast and a final-year student at Kongu Engineering College, graduating in 2025. Join me as I explore the endless possibilities of Artificial Intelligence and Data Science!</p>
-</div>
-<hr>
-<div >
-    <h2>🛠️ My Technological Arsenal </h2>
-     <div>
-         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-         <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
-         <img src="https://img.shields.io/badge/-Deep%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
-        <img src="https://img.shields.io/badge/-Data%20Structures-FFCA28?style=for-the-badge&logo=algorithm&logoColor=black" alt="Machine Learning Badge"/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="UI&UX Badge"/>
-        
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+## 👨‍💻 About Me
 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+I'm an **AI Application Developer** at **Kongu Engineering and Software Services** (April 2025 - Present), specializing in building production-ready AI applications. Fresh graduate from Kongu Engineering College (Class of 2025), I'm passionate about transforming cutting-edge AI research into real-world solutions.
 
-</div>
-<hr>
-<div align="centre">
-    <h2 align="left">📊 GitHub Statistics</h2>
-      <a href="https://github.com/prethish004">
-        <img src="https://github-readme-stats.vercel.app/api?username=prethish004&show_icons=true&theme=radical" alt="Prethish's GitHub Stats" style="width: 48%; float: left;" />
+🚀 Currently focused on developing intelligent applications using Large Language Models, Agentic AI, and cloud infrastructure.
+
+---
+
+## 💼 Professional Experience
+
+**AI Application Developer** | Kongu Engineering and Software Services  
+*April 2025 - Present*
+
+- Developing and deploying AI-powered applications in production environments
+- Working with modern AI frameworks and cloud infrastructure
+- Building end-to-end solutions from development to deployment
+
+### 🎯 Featured Project
+
+**Voice-Based Restaurant Ordering System**
+- Developed an intelligent voice ordering system for restaurants
+- Implemented natural language processing for order processing
+- Integrated AI agents for seamless customer interaction
+
+---
+
+## 🛠️ Technical Skills
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Frameworks & Tools:**
+- **LLM Integration:** Claude, Gemini, Perplexity
+- **AI Agents:** CrewAI, Agentic AI (Medium proficiency)
+- **RAG Systems:** Retrieval Augmented Generation implementation
+- **Vector Databases:** LlamaIndex (Lovavble)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AWS Expertise:**
+- Full-stack application hosting (Frontend + Backend)
+- Domain mapping and configuration
+- Cloud infrastructure management
+
+### Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Testing & Automation
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Automation Expertise:**
+- **TestSprite:** Automated testing workflows
+- **Selenium:** Web scraping, data extraction, backend automation testing
+- End-to-end test automation
+
+### Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Core Competencies:**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+    <a href="https://github.com/prethish004">
+        <img src="https://github-readme-stats.vercel.app/api?username=prethish004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
     </a>
     <a href="https://github.com/prethish004">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prethish004&layout=compact&theme=radical" alt="Prethish's Most Used Languages" style="width: 42%; float: right;" />
-    </div>
-</div>
-<hr>
-<div >
-    <h2>🌱 Current Learning</h2>
-    <p>Currently, I'm deep diving into Deep Learning, exploring Virtua and understanding the importance of responsible AI development.</p>
-</div>
-<hr>
-<div >
-    <h2>💼 Professional Journey</h2>
-    <p>As a student, I'm working on various projects that incorporate AI and DS to solve real-world problems. I am also actively seeking internships to apply my skills in a professional setting.</p>
-</div>
-<hr>
-<div >
-    <h2>🔭 Future Goals</h2>
-    <p>In the future, I aspire to be at the forefront of AI research, contributing to projects that have a significant positive impact on society.</p>
-</div>
-<hr>
-<div >
-    <h2>🤝 Connect with Me</h2>
-    <a href="https://www.linkedin.com/in/prethish-ga-84b96224b/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prethish004&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%" />
     </a>
-     <a href="https://leetcode.com/prethish04/">
-        <img src="https://img.shields.io/badge/LeetCode-prethish04-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
-     </a>
 </div>
+
+---
+
+## 🌱 Current Focus
+
+- 🤖 Advancing in **Agentic AI** and **Multi-Agent Systems**
+- 🔍 Deep diving into **RAG architectures** and optimization
+- ☁️ Expanding **AWS cloud** expertise for scalable AI deployments
+- 🧪 Exploring **LangChain** and advanced **prompt engineering**
+- 🎯 Building production-grade AI applications
+
+---
+
+## 🎯 Future Goals
+
+- 🚀 Lead development of large-scale AI applications
+- 🌐 Contribute to open-source AI projects
+- 📚 Mentor aspiring AI developers
+- 🔬 Research and implement cutting-edge AI solutions
+- 💡 Build AI products that solve real-world problems
+
+---
+
+## 🏆 Coding Profiles
+
+<div>
+    <a href="https://leetcode.com/prethish04/">
+        <img src="https://img.shields.io/badge/LeetCode-prethish04-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    </a>
+</div>
+
+<div align="center">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=prethish04&animated=true" alt="LeetCode Badges"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div>
+    <a href="https://www.linkedin.com/in/prethish-ga-84b96224b/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=prethish004&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+    
+    ### 💬 Open to collaboration on AI projects and innovative ideas!
+</div>
