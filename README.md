@@ -82,14 +82,10 @@ I'm an **AI Application Developer** at **Kongu Engineering and Software Services
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-    <a href="https://github.com/prethish004">
-        <img src="https://github-readme-stats.vercel.app/api?username=prethish004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-    </a>
-    <a href="https://github.com/prethish004">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prethish004&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prethish004&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prethish004&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
